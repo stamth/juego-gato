@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Juego" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Juego" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="Fuentes/Nucleo" />
+					<Add directory="Fuentes/Graficos" />
+					<Add directory="Fuentes/Fisicas" />
+					<Add directory="Fuentes/Objeto" />
+					<Add directory="Fuentes/Personajes" />
+					<Add directory="Fuentes/Objecto" />
+					<Add directory="Fuentes/Animation" />
+					<Add directory="Fuentes/Inputs" />
+					<Add directory="Fuentes/Tiempo" />
+					<Add directory="Desktop/Maps" />
+					<Add directory="Maps" />
+					<Add directory="Fuentes/Maps" />
+					<Add directory="Fuentes/Mapas" />
+					<Add directory="Fuentes/Wender/tinyxml-master" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Juego" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="Fuentes/Nucleo" />
+					<Add directory="Fuentes/Graficos" />
+					<Add directory="Fuentes/Fisicas" />
+					<Add directory="Fuentes/Objeto" />
+					<Add directory="Fuentes/Personajes" />
+					<Add directory="Fuentes/Objecto" />
+					<Add directory="Fuentes/Animation" />
+					<Add directory="Fuentes/Inputs" />
+					<Add directory="Fuentes/Tiempo" />
+					<Add directory="Desktop/Maps" />
+					<Add directory="Maps" />
+					<Add directory="Fuentes/Maps" />
+					<Add directory="Fuentes/Mapas" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Fuentes/Animation/Animation.cpp" />
+		<Unit filename="Fuentes/Animation/Animation.h" />
+		<Unit filename="Fuentes/Fisicas/CuerpoRigido.h" />
+		<Unit filename="Fuentes/Fisicas/Transform.h" />
+		<Unit filename="Fuentes/Fisicas/Vector2D.h" />
+		<Unit filename="Fuentes/Graficos/AdmTexturas.cpp" />
+		<Unit filename="Fuentes/Graficos/AdmTexturas.h" />
+		<Unit filename="Fuentes/Inputs/Input.cpp" />
+		<Unit filename="Fuentes/Inputs/Input.h" />
+		<Unit filename="Fuentes/Mapas/Capa.h" />
+		<Unit filename="Fuentes/Mapas/CapaTile.cpp" />
+		<Unit filename="Fuentes/Mapas/CapaTile.h" />
+		<Unit filename="Fuentes/Mapas/MapParser.cpp" />
+		<Unit filename="Fuentes/Mapas/MapParser.h" />
+		<Unit filename="Fuentes/Mapas/MapaJuego.h" />
+		<Unit filename="Fuentes/Nucleo/Motor.cpp" />
+		<Unit filename="Fuentes/Nucleo/Motor.h" />
+		<Unit filename="Fuentes/Objeto/GameObject.h" />
+		<Unit filename="Fuentes/Objeto/IObject.h" />
+		<Unit filename="Fuentes/Personajes/Personaje.h" />
+		<Unit filename="Fuentes/Personajes/Warrior.cpp" />
+		<Unit filename="Fuentes/Personajes/Warrior.h" />
+		<Unit filename="Fuentes/Tiempo/tiempo.cpp" />
+		<Unit filename="Fuentes/Tiempo/tiempo.h" />
+		<Unit filename="Fuentes/Wender/tinyxml-master/tinystr.cpp" />
+		<Unit filename="Fuentes/Wender/tinyxml-master/tinystr.h" />
+		<Unit filename="Fuentes/Wender/tinyxml-master/tinyxml.cpp" />
+		<Unit filename="Fuentes/Wender/tinyxml-master/tinyxml.h" />
+		<Unit filename="Fuentes/Wender/tinyxml-master/tinyxmlerror.cpp" />
+		<Unit filename="Fuentes/Wender/tinyxml-master/tinyxmlparser.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

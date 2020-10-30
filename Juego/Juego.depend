@@ -1,0 +1,500 @@
+# depslib dependency file v1.0
+1602455274 source:c:\users\usuario\desktop\tp juego\juego\main.cpp
+	<iostream>
+	"Motor.h"
+
+1602703251 source:c:\users\usuario\desktop\tp juego\juego\fuentes\nucleo\motor.cpp
+	<iostream>
+	"Motor.h"
+	"AdmTexturas.h"
+	"Warrior.h"
+
+1602455275 c:\users\usuario\desktop\tp juego\juego\fuentes\nucleo\motor.h
+	"SDL.h"
+	"SDL_image.h"
+
+1602460182 source:c:\users\usuario\desktop\tp juego\juego\fuentes\graficos\texturas.cpp
+	"Texturas.h"
+	"Motor.h"
+
+1602460182 c:\users\usuario\desktop\tp juego\juego\fuentes\graficos\texturas.h
+	<string>
+	"SDL.h"
+	<map>
+
+1602533780 c:\users\usuario\desktop\tp juego\juego\fuentes\graficos\admtexturas.h
+	<string>
+	"SDL.h"
+	<map>
+
+1602533780 source:c:\users\usuario\desktop\tp juego\juego\fuentes\graficos\admtexturas.cpp
+	"AdmTexturas.h"
+	"Motor.h"
+
+1602526238 c:\users\usuario\desktop\tp juego\juego\fuentes\fisicas\transformador.h
+	<iostream>
+	"Vector2D.h"
+
+1602686209 c:\users\usuario\desktop\tp juego\juego\fuentes\fisicas\vector2d.h
+	<iostream>
+
+1602686209 c:\users\usuario\desktop\tp juego\juego\fuentes\fisicas\transform.h
+	<iostream>
+	"Vector2D.h"
+
+1602703250 c:\users\usuario\desktop\tp juego\juego\fuentes\personajes\warrior.h
+	"Personaje.h"
+
+1602706141 c:\users\usuario\desktop\tp juego\juego\fuentes\personajes\personaje.h
+	<iostream>
+	"GameObject.h"
+	<string>
+
+1602707247 c:\users\usuario\desktop\tp juego\juego\fuentes\objeto\gameobject.h
+	<iostream>
+	"IObject.h"
+	"Transform.h"
+	"SDL.h"
+
+1602689645 c:\users\usuario\desktop\tp juego\juego\fuentes\objeto\iobject.h
+
+1602708495 source:c:\users\usuario\desktop\tp juego\juego\fuentes\personajes\warrior.cpp
+	"Warrior.h"
+	"AdmTexturas.h"
+	"SDL.h"
+
+1602533780 source:c:\users\usuario\documents\github\gatuno\juego\fuentes\graficos\admtexturas.cpp
+	"AdmTexturas.h"
+	"Motor.h"
+
+1602533780 c:\users\usuario\documents\github\gatuno\juego\fuentes\graficos\admtexturas.h
+	<string>
+	"SDL.h"
+	<map>
+
+1602455275 c:\users\usuario\documents\github\gatuno\juego\fuentes\nucleo\motor.h
+	"SDL.h"
+	"SDL_image.h"
+
+1602710269 source:c:\users\usuario\documents\github\gatuno\juego\fuentes\nucleo\motor.cpp
+	<iostream>
+	"Motor.h"
+	"AdmTexturas.h"
+	"Warrior.h"
+
+1602725594 c:\users\usuario\documents\github\gatuno\juego\fuentes\personajes\warrior.h
+	"Personaje.h"
+	"Animation.h"
+
+1602706141 c:\users\usuario\documents\github\gatuno\juego\fuentes\personajes\personaje.h
+	<iostream>
+	"GameObject.h"
+	<string>
+
+1602707247 c:\users\usuario\documents\github\gatuno\juego\fuentes\objeto\gameobject.h
+	<iostream>
+	"IObject.h"
+	"Transform.h"
+	"SDL.h"
+
+1602689645 c:\users\usuario\documents\github\gatuno\juego\fuentes\objeto\iobject.h
+
+1602686209 c:\users\usuario\documents\github\gatuno\juego\fuentes\fisicas\transform.h
+	<iostream>
+	"Vector2D.h"
+
+1602686209 c:\users\usuario\documents\github\gatuno\juego\fuentes\fisicas\vector2d.h
+	<iostream>
+
+1602725594 source:c:\users\usuario\documents\github\gatuno\juego\fuentes\personajes\warrior.cpp
+	"Warrior.h"
+	"AdmTexturas.h"
+	"SDL.h"
+
+1602455274 source:c:\users\usuario\documents\github\gatuno\juego\main.cpp
+	<iostream>
+	"Motor.h"
+
+1602725594 c:\users\usuario\documents\github\gatuno\juego\fuentes\animation\animation.h
+	<iostream>
+	<string>
+	"SDL.h"
+
+1602725594 source:c:\users\usuario\documents\github\gatuno\juego\fuentes\animation\animation.cpp
+	"Animation.h"
+	"AdmTexturas.h"
+	<iostream>
+
+1602533780 source:c:\users\usuario\documents\github\juegaso\juego\fuentes\graficos\admtexturas.cpp
+	"AdmTexturas.h"
+	"Motor.h"
+
+1602533780 c:\users\usuario\documents\github\juegaso\juego\fuentes\graficos\admtexturas.h
+	<string>
+	"SDL.h"
+	<map>
+
+1602455275 c:\users\usuario\documents\github\juegaso\juego\fuentes\nucleo\motor.h
+	"SDL.h"
+	"SDL_image.h"
+
+1602971879 source:c:\users\usuario\documents\github\juegaso\juego\fuentes\nucleo\motor.cpp
+	<iostream>
+	"Motor.h"
+	"AdmTexturas.h"
+	"Warrior.h"
+	"Input.h"
+	"SDL.h"
+
+1602953921 c:\users\usuario\documents\github\juegaso\juego\fuentes\personajes\warrior.h
+	"Personaje.h"
+	"Animation.h"
+	"CuerpoRigido.h"
+
+1602706141 c:\users\usuario\documents\github\juegaso\juego\fuentes\personajes\personaje.h
+	<iostream>
+	"GameObject.h"
+	<string>
+
+1602707247 c:\users\usuario\documents\github\juegaso\juego\fuentes\objeto\gameobject.h
+	<iostream>
+	"IObject.h"
+	"Transform.h"
+	"SDL.h"
+
+1602689645 c:\users\usuario\documents\github\juegaso\juego\fuentes\objeto\iobject.h
+
+1602952989 c:\users\usuario\documents\github\juegaso\juego\fuentes\fisicas\transform.h
+	<iostream>
+	"Vector2D.h"
+
+1602686209 c:\users\usuario\documents\github\juegaso\juego\fuentes\fisicas\vector2d.h
+	<iostream>
+
+1602725594 c:\users\usuario\documents\github\juegaso\juego\fuentes\animation\animation.h
+	<iostream>
+	<string>
+	"SDL.h"
+
+1602971879 source:c:\users\usuario\documents\github\juegaso\juego\fuentes\personajes\warrior.cpp
+	"Warrior.h"
+	"AdmTexturas.h"
+	"SDL.h"
+	"Input.h"
+
+1602455274 source:c:\users\usuario\documents\github\juegaso\juego\main.cpp
+	<iostream>
+	"Motor.h"
+
+1602725970 source:c:\users\usuario\documents\github\juegaso\juego\fuentes\animation\animation.cpp
+	"Animation.h"
+	"AdmTexturas.h"
+	<iostream>
+
+1602974657 c:\users\usuario\documents\github\juegaso\juego\fuentes\fisicas\cuerporigido.h
+	"Vector2D.h"
+
+1602965681 c:\users\usuario\documents\github\juegaso\juego\fuentes\inputs\input.h
+	"SDL.h"
+
+1602969445 source:c:\users\usuario\documents\github\juegaso\juego\fuentes\inputs\input.cpp
+	"Input.h"
+	"Motor.h"
+
+1602725972 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\animation\animation.cpp
+	"Animation.h"
+	"AdmTexturas.h"
+	<iostream>
+
+1602725596 c:\users\tomas\documents\github\juegaso\juego\fuentes\animation\animation.h
+	<iostream>
+	<string>
+	"SDL.h"
+
+1603583284 c:\users\tomas\documents\github\juegaso\juego\fuentes\graficos\admtexturas.h
+	<string>
+	"SDL.h"
+	<map>
+
+1603593992 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\graficos\admtexturas.cpp
+	"AdmTexturas.h"
+	"Motor.h"
+
+1603583850 c:\users\tomas\documents\github\juegaso\juego\fuentes\nucleo\motor.h
+	"SDL.h"
+	"SDL_image.h"
+	"MapaJuego.h"
+
+1602969446 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\inputs\input.cpp
+	"Input.h"
+	"Motor.h"
+
+1602965682 c:\users\tomas\documents\github\juegaso\juego\fuentes\inputs\input.h
+	"SDL.h"
+
+1603586164 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\nucleo\motor.cpp
+	<iostream>
+	"Motor.h"
+	"AdmTexturas.h"
+	"Warrior.h"
+	"Input.h"
+	"SDL.h"
+	"tiempo.h"
+	"MapParser.h"
+
+1602953922 c:\users\tomas\documents\github\juegaso\juego\fuentes\personajes\warrior.h
+	"Personaje.h"
+	"Animation.h"
+	"CuerpoRigido.h"
+
+1602706142 c:\users\tomas\documents\github\juegaso\juego\fuentes\personajes\personaje.h
+	<iostream>
+	"GameObject.h"
+	<string>
+
+1602707248 c:\users\tomas\documents\github\juegaso\juego\fuentes\objeto\gameobject.h
+	<iostream>
+	"IObject.h"
+	"Transform.h"
+	"SDL.h"
+
+1602689646 c:\users\tomas\documents\github\juegaso\juego\fuentes\objeto\iobject.h
+
+1602952990 c:\users\tomas\documents\github\juegaso\juego\fuentes\fisicas\transform.h
+	<iostream>
+	"Vector2D.h"
+
+1602686210 c:\users\tomas\documents\github\juegaso\juego\fuentes\fisicas\vector2d.h
+	<iostream>
+
+1603314454 c:\users\tomas\documents\github\juegaso\juego\fuentes\fisicas\cuerporigido.h
+	"Vector2D.h"
+
+1603341116 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\personajes\warrior.cpp
+	"Warrior.h"
+	"AdmTexturas.h"
+	"SDL.h"
+	"Input.h"
+
+1603133702 source:c:\users\tomas\documents\github\juegaso\juego\main.cpp
+	<iostream>
+	"Motor.h"
+	"tiempo.h"
+
+1602982688 source:c:\users\tomas\documents\github\juegaso\juego\src\tiempo.cpp
+	"tiempo.h"
+
+1603132872 c:\users\tomas\documents\github\juegaso\juego\fuentes\tiempo\tiempo.h
+	"SDL.h"
+
+1603314108 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\tiempo\tiempo.cpp
+	"tiempo.h"
+	"SDL.h"
+
+1602725972 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\animation\animation.cpp
+	"Animation.h"
+	"AdmTexturas.h"
+	<iostream>
+
+1602725596 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\animation\animation.h
+	<iostream>
+	<string>
+	"SDL.h"
+
+1603583282 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\graficos\admtexturas.h
+	<string>
+	"SDL.h"
+	<map>
+
+1603586607 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\graficos\admtexturas.cpp
+	"AdmTexturas.h"
+	"Motor.h"
+
+1603583849 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\nucleo\motor.h
+	"SDL.h"
+	"SDL_image.h"
+	"MapaJuego.h"
+
+1602969446 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\inputs\input.cpp
+	"Input.h"
+	"Motor.h"
+
+1602965682 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\inputs\input.h
+	"SDL.h"
+
+1603586163 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\nucleo\motor.cpp
+	<iostream>
+	"Motor.h"
+	"AdmTexturas.h"
+	"Warrior.h"
+	"Input.h"
+	"SDL.h"
+	"tiempo.h"
+	"MapParser.h"
+
+1602953922 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\personajes\warrior.h
+	"Personaje.h"
+	"Animation.h"
+	"CuerpoRigido.h"
+
+1602706142 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\personajes\personaje.h
+	<iostream>
+	"GameObject.h"
+	<string>
+
+1602707248 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\objeto\gameobject.h
+	<iostream>
+	"IObject.h"
+	"Transform.h"
+	"SDL.h"
+
+1602689646 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\objeto\iobject.h
+
+1602952990 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\fisicas\transform.h
+	<iostream>
+	"Vector2D.h"
+
+1602686210 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\fisicas\vector2d.h
+	<iostream>
+
+1603314454 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\fisicas\cuerporigido.h
+	"Vector2D.h"
+
+1603132872 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\tiempo\tiempo.h
+	"SDL.h"
+
+1603341115 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\personajes\warrior.cpp
+	"Warrior.h"
+	"AdmTexturas.h"
+	"SDL.h"
+	"Input.h"
+
+1603314108 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\tiempo\tiempo.cpp
+	"tiempo.h"
+	"SDL.h"
+
+1603133702 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\main.cpp
+	<iostream>
+	"Motor.h"
+	"tiempo.h"
+
+1603591140 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\mapas\mapparser.cpp
+	"MapParser.h"
+	<iostream>
+
+1603591600 c:\users\tomas\documents\github\juegaso\juego\fuentes\mapas\mapparser.h
+	<map>
+	<string>
+	"MapaJuego.h"
+	"CapaTile.h"
+	"tinyxml.h"
+
+1376507762 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\wender\tinyxml-master\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1603557560 c:\users\tomas\documents\github\juegaso\juego\fuentes\wender\tinyxml-master\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1603334826 c:\users\tomas\documents\github\juegaso\juego\fuentes\wender\tinyxml-master\tinystr.h
+	<assert.h>
+	<string.h>
+
+1376507762 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\wender\tinyxml-master\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1376507762 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\wender\tinyxml-master\tinystr.cpp
+	"tinystr.h"
+
+1376507762 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\wender\tinyxml-master\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1376507762 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\wender\tinyxml-master\tinystr.cpp
+	"tinystr.h"
+
+1603334825 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\wender\tinyxml-master\tinystr.h
+	<assert.h>
+	<string.h>
+
+1376507762 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\wender\tinyxml-master\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1603557559 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\wender\tinyxml-master\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1376507762 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\wender\tinyxml-master\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1376507762 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\wender\tinyxml-master\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1603592227 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\mapas\capatile.cpp
+	"CapaTile.h"
+	"AdmTexturas.h"
+
+1603592614 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\mapas\capatile.h
+	"Capa.h"
+	<string>
+	<vector>
+	"Vector2D.h"
+
+1603470746 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\mapas\capa.h
+
+1603591138 source:c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\mapas\mapparser.cpp
+	"MapParser.h"
+	<iostream>
+
+1603591599 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\mapas\mapparser.h
+	<map>
+	<string>
+	"MapaJuego.h"
+	"CapaTile.h"
+	"tinyxml.h"
+
+1603593020 c:\users\usuario\documents\github\juegaso\juego(versiones)\juego\fuentes\mapas\mapajuego.h
+	<vector>
+	"Capa.h"
+
+1603593022 c:\users\tomas\documents\github\juegaso\juego\fuentes\mapas\mapajuego.h
+	<vector>
+	"Capa.h"
+
+1603470748 c:\users\tomas\documents\github\juegaso\juego\fuentes\mapas\capa.h
+
+1603592228 source:c:\users\tomas\documents\github\juegaso\juego\fuentes\mapas\capatile.cpp
+	"CapaTile.h"
+	"AdmTexturas.h"
+
+1603592616 c:\users\tomas\documents\github\juegaso\juego\fuentes\mapas\capatile.h
+	"Capa.h"
+	<string>
+	<vector>
+	"Vector2D.h"
+
